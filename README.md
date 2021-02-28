@@ -26,6 +26,6 @@ ig-tool is a bash based script which is officially made to test password strengt
 - $ ls
 - $ cd ig-tool
 - $ bash setup
-- $ bash ig-tool 
+- $ bash ig-tool.sh
 ```
 Copyright© web Exploit by : PenecuriCode - Meow404
