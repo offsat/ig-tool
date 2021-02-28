@@ -19,7 +19,7 @@ echo '
 printf "\n"
 printf "                \e[101m\e[1;77m + PenecuriCode - Meow404 + \e[0m\n"
 printf "\n"
-printf "  \e[100m\e[1;77m [X] Github : https://github.com/penecuriCode \e[0m\n"
+printf "  \e[100m\e[1;77m [X] Github : https://github.com/penucuriCode \e[0m\n"
 printf "\n"
 echo 
 read -p "[#] User Name : " usrnm
@@ -36,5 +36,5 @@ sleep 30.0
 cd $HOME
 fi
 sleep 30.0
-cd $HOME/ighack
+cd $HOME/ig-tool
 bash ig-tool.sh
