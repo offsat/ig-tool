@@ -20,5 +20,5 @@ echo "                  [X] Follow Github : https://github.com/penucuriCode "| l
 echo " "
 
 sleep 5.0
-cd $HOME/ighack
+cd $HOME/ig-tool
 bash ig-tool.sh
