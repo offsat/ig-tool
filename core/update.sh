@@ -35,7 +35,7 @@ echo -e "$grn                updating the ig-tool please wait$rset"
 sleep 2.0
 cd $HOME
 rm -rf ig-tool
-git clone https://github.com/penecuriCode/ig-tool
+git clone https://github.com/penucuriCode/ig-tool
 clear
 echo " "
 echo -e "$grn               ig-tool has been updated check it now...$rset"
