@@ -16,7 +16,7 @@ echo "       🙏 hi there, I am penecuriCode, i recode this tool,
   to penetrate password strength In termux, so i hope guys you
                              liked it. 😘"
 echo ""
-echo "                  [X] Follow Github : https://github.com/penecuriCode "| lolcat
+echo "                  [X] Follow Github : https://github.com/penucuriCode "| lolcat
 echo " "
 
 sleep 5.0
