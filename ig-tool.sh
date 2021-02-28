@@ -1,5 +1,5 @@
 #bin/bash
-#script By PenecuriCode - Meow404
+#script By PenucuriCode - Meow404
 #colours
 #####3#3#
 red='\033[1;31m'
@@ -21,9 +21,9 @@ echo '
     ╚═╝ ╚═════╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
 ' |lolcat
 printf "\n"
-printf "                \e[101m\e[1;77m + PenecuriCode - Meow404 + \e[0m\n"
+printf "                \e[101m\e[1;77m + PenucuriCode - Meow404 + \e[0m\n"
 printf "\n"
-printf "  \e[100m\e[1;77m [X] Github : https://github.com/penecuriCode \e[0m\n"
+printf "  \e[100m\e[1;77m [X] Github : https://github.com/penucuriCode \e[0m\n"
 printf "\n"
 echo 
 
